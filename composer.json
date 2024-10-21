@@ -2,7 +2,7 @@
     "name": "sebaschinga/creador-fpdf",
     "description": "Una libreria para crear PDF's",
     "type": "library",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "require": {
         "php": "^8.2"
     },
